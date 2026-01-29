@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calendar, Shield, Users, Lock, CheckCircle2, XCircle, Clock, FileText, Upload, Key, LogOut, Activity, Pill, UserCircle, QrCode, Home, X, Hospital, Zap, AlertCircle, ArrowRight, Sparkles } from 'lucide-react';
+import { Calendar, Shield, Users, Lock, CheckCircle2, XCircle, Clock, FileText, Upload, Key, LogOut, Activity, Pill, UserCircle, QrCode, Home, X, Hospital, AlertCircle, ArrowRight } from 'lucide-react';
 
 // ============================================================================
 // STYLES (Inline for instant compatibility)
